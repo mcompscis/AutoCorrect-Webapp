@@ -1,0 +1,19 @@
+{
+  "name": "autocorrect-webapp",
+  "version": "1.0.0",
+  "description": "webapp for autocorrect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcompscis/Autocorrect-Webapp.git"
+  },
+  "author": "mcompscis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcompscis/Autocorrect-Webapp/issues"
+  },
+  "homepage": "https://github.com/mcompscis/Autocorrect-Webapp#readme"
+}
